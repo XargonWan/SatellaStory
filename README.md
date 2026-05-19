@@ -1,6 +1,6 @@
 # SatellaStory
 
-Source code for the **Satellaview / BS-X History Archive**, hosted on Read the Docs.
+Source code for **SatellaStory**, the Satellaview / BS-X History Archive hosted on Read the Docs.
 
 ## About
 

@@ -1,9 +1,9 @@
-site_name: Satellaview / BS-X History Archive
+site_name: SatellaStory
 site_description: "A comprehensive historical archive of the Satellaview satellite modem system for the Super Famicom, with emphasis on BS-X: Sore wa Namae o Nusumareta Machi no Monogatari"
-site_author: Satellaview History Project
+site_author: SatellaStory Project
 repo_url: https://github.com/anomalyco/satellaview-history
 edit_uri: ""
-copyright: "&copy; Satellaview History Project"
+copyright: "&copy; SatellaStory Project"
 theme:
   name: material
   features:

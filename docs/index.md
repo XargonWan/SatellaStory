@@ -1,6 +1,6 @@
-# Satellaview / BS-X History Archive
+# SatellaStory
 
-Welcome to the **Satellaview / BS-X History Archive** -- a comprehensive historical documentation project dedicated to preserving the history, lore, and community of the Nintendo Satellaview satellite modem system for the Super Famicom, with special emphasis on **BS-X: Sore wa Namae o Nusumareta Machi no Monogatari** (BS-X: The Story of the Town Whose Name Was Stolen).
+Welcome to **SatellaStory** -- a comprehensive historical documentation project dedicated to preserving the history, lore, and community of the Nintendo Satellaview satellite modem system for the Super Famicom, with special emphasis on **BS-X: Sore wa Namae o Nusumareta Machi no Monogatari** (BS-X: The Story of the Town Whose Name Was Stolen).
 
 ## About This Project
 
