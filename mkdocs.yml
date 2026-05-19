@@ -1,0 +1,103 @@
+site_name: Satellaview / BS-X History Archive
+site_description: "A comprehensive historical archive of the Satellaview satellite modem system for the Super Famicom, with emphasis on BS-X: Sore wa Namae o Nusumareta Machi no Monogatari"
+site_author: Satellaview History Project
+repo_url: https://github.com/anomalyco/satellaview-history
+edit_uri: ""
+copyright: "&copy; Satellaview History Project"
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: indigo
+      accent: deep purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: indigo
+      accent: deep purple
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - footnotes
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+      enable_git_follow: false
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/anomalyco/satellaview-history
+nav:
+  - Home: index.md
+  - Overview:
+    - Satellaview System: overview/satellaview.md
+    - St.GIGA: overview/stgiga.md
+    - Broadcast Timeline: timeline/broadcast-history.md
+  - BS-X Lore:
+    - The Town Whose Name Was Stolen: lore/bs-x-story.md
+    - Characters: lore/characters.md
+    - Locations: lore/locations.md
+    - Items & Mechanics: lore/items-mechanics.md
+    - SoundLink & Audio: lore/soundlink-audio.md
+  - Games:
+    - Index: games/index.md
+    - BS Zelda Series: games/bs-zelda.md
+    - BS Fire Emblem: games/bs-fire-emblem.md
+    - BS Tantei Club: games/bs-tantei-club.md
+    - BS Dragon Quest: games/bs-dragon-quest.md
+    - Other Broadcast Games: games/other-broadcast-games.md
+  - Community:
+    - Fan Projects Overview: community/index.md
+    - Historical Communities: community/historical-communities.md
+    - Modern Communities: community/modern-communities.md
+    - Fan Events: community/fan-events.md
+    - Restoration Projects: community/restoration-projects.md
+  - People:
+    - Directory: people/index.md
+    - Developers & Staff: people/developers.md
+    - Researchers & Archivists: people/researchers.md
+    - Fan Project Leads: people/fan-project-leads.md
+    - Interview Contacts: people/interview-contacts.md
+  - Research:
+    - Links Archive: research/links-archive.md
+    - References: research/references.md
+    - Unknowns & Research Gaps: research/unknowns.md
+    - Satellite Broadcast Data: research/broadcast-data.md
+  - Technical:
+    - Emulation: technical/emulation.md
+    - ROM Dumping & Preservation: technical/rom-preservation.md
+    - BS-X Project (LuigiBlood): technical/bs-x-project.md
+    - Hardware: technical/hardware.md
+  - Timeline: timeline/complete-timeline.md
