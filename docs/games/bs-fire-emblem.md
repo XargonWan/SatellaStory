@@ -1,5 +1,7 @@
 # BS Fire Emblem: Akaneia Senki
 
+![St.GIGA broadcast - BS Mario and BS Zelda thumbnails](../assets/images/satellaview-heaven/stgiga/h4ad_bsmario-thumbnail2.jpg){ align="right" width="300" }
+
 ## Overview
 
 **BS Fire Emblem: Akaneia Senki** (BSファイアーエムブレム アカネイア戦記) was a SoundLink game broadcast in 1997. It consisted of 4 episodes combining radio drama segments with tactical RPG gameplay, set in the world of the original Fire Emblem: Shadow Dragon and the Blade of Light.[^1]

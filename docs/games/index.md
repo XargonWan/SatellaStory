@@ -26,20 +26,20 @@ Downloadable magazines and "wall newspaper" content that provided news, tips, ga
 
 | Game | Type | Broadcast Period | Status |
 |------|------|------------------|--------|
-| BS Zelda no Densetsu (Map 1 & 2) | Downloadable | 1996 | Restored |
-| BS Zelda: Inishie no Sekiban | SoundLink | 1997-1998 | Partially restored |
-| BS Fire Emblem: Akaneia Senki | SoundLink | Sep-Oct 1997 | Restored (DS re-release) |
-| BS Tantei Club: Yuki ni Kieru Kako | SoundLink | 1997 | Project Gam (restoration) |
-| BS Dragon Quest | Downloadable | 1997 | Debug ROM leaked |
-| BS Super Mario Collection | Downloadable | 1995 | Restored |
-| BS F-Zero Grand Prix | SoundLink | 1997 | Partially restored |
-| BS F-Zero 2 | SoundLink | 1997 | Playable at SatellaOFF |
-| BS SimCity: Machi Tsukuri Taikai | Downloadable | 1995 | Documented |
-| Tamori no Picross | Downloadable | 1995 | Preserved |
-| BS Super Mario USA Power Challenge | SoundLink | 1996 | Partially restored |
-| Excitebike: BunBun Mario Battle | SoundLink | 1997 | Patched by d4s |
-| Kirby no Omocha Hako | Downloadable | 1996 | Preserved by Elude Visibility |
-| Satella-Q | Quiz | 1995+ | Documented |
+| [BS Zelda no Densetsu (Map 1 & 2)](bs-zelda.md) | Downloadable | 1996 | [Restored](https://bszelda.zeldalegends.net/) |
+| [BS Zelda: Inishie no Sekiban](bs-zelda.md) | SoundLink | 1997-1998 | [Partially restored](https://bszelda.zeldalegends.net/) |
+| [BS Fire Emblem: Akaneia Senki](bs-fire-emblem.md) | SoundLink | Sep-Oct 1997 | [Restored (DS re-release)](https://web.archive.org/web/*/http://homepage3.nifty.com/imoko/bsfe/whatis.bsfe.html) |
+| [BS Tantei Club: Yuki ni Kieru Kako](bs-tantei-club.md) | SoundLink | 1997 | [Project Gam (restoration)](https://superfamicom.org/blog/2009/03/satellaview-dojin-projects) |
+| [BS Dragon Quest](bs-dragon-quest.md) | Downloadable | 1997 | [Debug ROM leaked](https://superfamicom.org/blog/2010/06/so-whats-up-with-the-bs-dragon-quest-rom-anyway) |
+| [BS Super Mario Collection](other-broadcast-games.md) | Downloadable | 1995 | [Restored](https://web.archive.org/web/*/http://www36.atwiki.jp/bsxx) |
+| [BS F-Zero Grand Prix](other-broadcast-games.md) | SoundLink | 1997 | [Partially restored](https://superfamicom.org/blog/) |
+| [BS F-Zero 2](other-broadcast-games.md) | SoundLink | 1997 | [Playable at SatellaOFF](https://web.archive.org/web/20001218090800/http://www5.airnet.ne.jp/hiro-n/special/off/0329-1.html) |
+| [BS SimCity: Machi Tsukuri Taikai](other-broadcast-games.md) | Downloadable | 1995 | [Documented](https://web.archive.org/web/*/http://bsx.seesaa.net/) |
+| [Tamori no Picross](other-broadcast-games.md) | Downloadable | 1995 | [Preserved](https://web.archive.org/web/*/http://blog.goo.ne.jp/randnetdd) |
+| [BS Super Mario USA Power Challenge](other-broadcast-games.md) | SoundLink | 1996 | [Partially restored](https://superfamicom.org/blog/) |
+| [Excitebike: BunBun Mario Battle](other-broadcast-games.md) | SoundLink | 1997 | [Patched by d4s](https://dforce3000.de/) |
+| [Kirby no Omocha Hako](other-broadcast-games.md) | Downloadable | 1996 | [Preserved by Elude Visibility](https://eludevisibility.org/) |
+| [Satella-Q](other-broadcast-games.md) | Quiz | 1995+ | [Documented](https://web.archive.org/web/20001209/http://www5.airnet.ne.jp/hiro-n/special/off/0329-Q.html) |
 
 ---
 

@@ -6,6 +6,8 @@ The **SatellaOFF** events were the first known real-life meetups of Satellaview 
 
 ### Event 1: March 28-29, 1999 -- Higashi-Shinagawa, Tokyo
 
+![SatellaOFF participants photo](../assets/images/satellaoff/off-dinner1.jpg){ align="right" width="300" }
+
 **Organizer:** St.GIGA (announced via the "BS-X no Hanashi" site's bulletin board)
 
 **Venue:** Near Higashi-Shinagawa station, Tokyo. Started at a restaurant called **Sukosuki/Kushikatsu** (スゴス串カツ).
@@ -28,9 +30,13 @@ The **SatellaOFF** events were the first known real-life meetups of Satellaview 
 - HIRO hosted Pane-pon-master overnight
 - Next day: visited Nakano Broadway, played BS F-Zero 2, Zelda: Ocarina of Time debug ROM, Dynamite Trax (rare Square sound novel), group SatellaQuiz session[^2]
 
+![SatellaQuiz results page](../assets/images/satellaview-heaven/sateqnen/sateqnen01.gif){ align="left" width="300" }
+
 **Quiz results:** HIRO 48pts, Pane-pon-master 56pts, Halki Hiro 70pts, Mizota 75pts. The "oshougatsu-san" (NPC) scored 232/500.[^3]
 
 ### Event 2: April 29, 1999 -- Kameido/Nakano, Tokyo
+
+![SatellaOFF group photo](../assets/images/satellaoff/off-station.jpg){ align="right" width="300" }
 
 **Trigger:** A post from Yulil about a "Konami New Game Exhibition" at Kameido.
 
@@ -47,6 +53,14 @@ The **SatellaOFF** events were the first known real-life meetups of Satellaview 
 The SatellaOFF pages contain a **St.GIGA Data Broadcast Timeline** (1995-1999) tracking the shift from normal data broadcasts to Sound Link games to the Satellaview Guide, ending with broadcast cessation around June 1999. This makes them a primary source for the service's chronology.[^5]
 
 HIRO maintained exhaustive diaries with ~25+ photos per event. The pages also feature character illustrations of all attendees drawn by Blackeye, creator of the BS-X no Hanashi site.[^6]
+
+Additional participant reports were created by other attendees:
+- **Mizota**: "Mizota's Secret Diary March 28-29" on his site KIMATTA![^mizota]
+- **Halki Hiro**: "BS SatellaOFF War Report" on Rakuho-so, with detailed per-item commentary[^halki]
+- **Pane-pon-master**: "Finally! Satellaview OFF!!" with a humorous post-event writeup[^pane]
+- **Yulil**: "Sound Novel - SatellaOFF" featuring extensive Sound Novel-style narrative of the event[^yulil]
+
+The SatellaOFF event was first announced via the **"BS-X no Hanashi"** site's bulletin board, posted by St.GIGA themselves. The six webmasters who attended represented the entire active Satellaview fan community at the time.[^6]
 
 ---
 
@@ -112,6 +126,10 @@ The blog was revived in **2024-2026** by a new maintainer, **danyl**, who now po
 [^10]: Encyclopedia Dramatica, ResetEra, Graalians forum sources
 [^11]: [X-Cult](http://www.x-cult.org/)
 [^12]: [Satellablog - About this Blog](https://web.archive.org/web/200804/http://satellablog.blogspot.com/2008/04/about-this-blog.html)
+[^mizota]: [Mizota's SatellaOFF Report - Geocities (archived)](https://web.archive.org/web/20001209203800/http://www.geocities.co.jp/Milkyway-Orion/4620/new.html)
+[^halki]: [Halki Hiro's SatellaOFF Report - Rakuho-so (archived)](https://web.archive.org/web/20001209203800/http://www.speed.co.jp/halki/sateoff.htm)
+[^pane]: [Pane-pon-master's SatellaOFF Report (archived)](https://web.archive.org/web/20001209203800/http://hm.aitai.ne.jp/~kanbaya/kousuke/pmsatellaoff.html)
+[^yulil]: [Yulil's SatellaOFF Report - Sound Novel style (archived)](https://web.archive.org/web/20001209203800/http://www.infosakyu.ne.jp/~silicon/)
 [^13]: [Satellablog - Satellablog on IRC](https://superfamicom.org/blog/2009/05/satellablog-on-irc)
 [^14]: [Satellablog - Moved!](https://superfamicom.org/blog/2009/04/moved)
 [^15]: [Satellablog - Digging into the history](https://web.archive.org/web/200812/http://satellablog.blogspot.com/2008/12/digging-into-history-of-satellaview.html)

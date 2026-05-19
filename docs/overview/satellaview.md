@@ -1,10 +1,14 @@
 # The Satellaview System
 
+![Satellaview Logo](../assets/images/Satellaview_logo.svg){ align="right" width="300" }
+
 ## Overview
 
 The **Satellaview** (サテラビュー) was a satellite modem peripheral for the Super Famicom, released by Nintendo in 1995 exclusively in Japan. It connected to the console via the expansion port and received data broadcasts via satellite through a partnership with the radio station **St.GIGA**.[^1]
 
 The system allowed users to download games, magazines, and additional content over satellite during designated broadcast windows. It also featured **SoundLink** games, which synchronized gameplay with live radio broadcasts including voice narration and music.[^2]
+
+![Satellaview connected to a Super Famicom](../assets/images/Satellaview_with_Super_Famicom.jpg){ align="left" width="350" }
 
 ## Technical Specifications
 
@@ -17,6 +21,8 @@ The system allowed users to download games, magazines, and additional content ov
 | Required Accessories | BS-X cartridge, Memory Pack (1 megabit flash RAM), satellite antenna subscription |
 
 The Satellaview connected to the Super Famicom via its **EXT port** (the expansion port on the bottom of the console). It required a satellite dish tuned to the BS-5 channel (NHK's satellite channel) and a subscription to St.GIGA's data broadcasting service.[^7]
+
+![Satellaview system diagram](../assets/images/Satellaview-system.png){ align="right" width="300" }
 
 ## The BS-X Cartridge
 

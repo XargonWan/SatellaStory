@@ -73,6 +73,7 @@ nav:
     - SoundLink & Audio: lore/soundlink-audio.md
   - Games:
     - Index: games/index.md
+    - Complete Catalog: games/catalog.md
     - BS Zelda Series: games/bs-zelda.md
     - BS Fire Emblem: games/bs-fire-emblem.md
     - BS Tantei Club: games/bs-tantei-club.md
@@ -90,6 +91,7 @@ nav:
     - Researchers & Archivists: people/researchers.md
     - Fan Project Leads: people/fan-project-leads.md
     - Interview Contacts: people/interview-contacts.md
+  - Gallery: gallery.md
   - Research:
     - Links Archive: research/links-archive.md
     - References: research/references.md

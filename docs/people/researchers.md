@@ -30,9 +30,10 @@
 
 ### Contact for Interview
 
-- **Twitter/X**: `@superfamicom` (most publicly linked)[^11]
-- **GitHub**: `MatthewCallis` (joined 2009, 153 followers, hireable status)[^12]
-- **LinkedIn**: linkedin.com/in/matthewcallis (Senior Software Engineer at Magnify, Seattle)[^13]
+- **Twitter/X**: `@superfamicom`[^11]
+- **GitHub**: `MatthewCallis`[^12]
+- **LinkedIn**: linkedin.com/in/matthewcallis[^13]
+- **Mastodon**: @superfamicom@mastodon.gamedev.place
 - **Email**: Not publicly posted. Best approach: DM on Twitter/X[^14]
 
 ---
@@ -62,8 +63,9 @@
 ### Contact for Interview
 
 - **Twitter/X**: `@LuigiBlood`[^25]
-- **GitHub**: `LuigiBlood` (joined 2011, 271 followers, 71 public repos)[^26]
+- **GitHub**: `LuigiBlood`[^26]
 - **Website**: `luigiblood.neocities.org`, `project.satellaview.org`[^27]
+- **YouTube**: `@luigiblood`
 - **Email**: Not publicly posted. Best approach: Twitter/X or GitHub[^28]
 
 ---

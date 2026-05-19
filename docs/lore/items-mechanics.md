@@ -1,5 +1,7 @@
 # Items & Mechanics
 
+![Memory Pack diagram from Satellaview History Museum](../assets/images/museum/st_mp24.gif){ align="right" width="250" }
+
 ## Memory Pack System
 
 The **Memory Pack** (1 megabit / 128KB flash RAM) was the physical storage medium for all Satellaview content. It plugged into the BS-X cartridge and stored:[^1]
@@ -30,6 +32,18 @@ The player avatar chosen in BS-X served as a **persistent character** that carri
 - The avatar's name was set during initial configuration
 - Supported games would read the avatar data from the Memory Pack
 - Not all broadcast games supported this feature
+
+## BS-X Items
+
+The BS-X town featured various interactive items that could be found and sometimes purchased. Below are items documented by Satellaview Heaven:
+
+![Taxi](../assets/images/satellaview-heaven/item/item_taxi01.jpg){ width="150" } ![Tokkyu (Limited Express)](../assets/images/satellaview-heaven/item/item_tokkyu01.jpg){ width="150" } ![Donko](../assets/images/satellaview-heaven/item/item_donkou01.jpg){ width="150" }
+
+![Bus](../assets/images/satellaview-heaven/item/item_bus01.jpg){ width="150" } ![Rent-a-Car](../assets/images/satellaview-heaven/item/item_rentacar01.jpg){ width="150" } ![Medaka](../assets/images/satellaview-heaven/item/item_medaka.jpg){ width="150" }
+
+![Iruka (Dolphin)](../assets/images/satellaview-heaven/item/item_iruka.jpg){ width="150" } ![Kujira (Whale)](../assets/images/satellaview-heaven/item/item_kujira.jpg){ width="150" }
+
+These items were likely used in the town for transportation or decoration purposes, though the exact mechanics of many items remain undocumented.
 
 ## Broadcast Schedules
 

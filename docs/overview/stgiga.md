@@ -1,8 +1,12 @@
 # St.GIGA
 
+![St.GIGA Logo](../assets/images/St_GIGA_logo.png){ align="right" width="200" }
+
 ## Overview
 
 **St.GIGA** (セント・ギガ) was a Japanese satellite radio broadcaster that partnered with Nintendo to provide data broadcasting services for the Satellaview. The company was founded in 1991 and began satellite radio broadcasts in 1993 on the BS-5 channel (NHK's satellite channel).[^1]
+
+![St.GIGA satellite data broadcast system](../assets/images/Transmisje_Danych_Satelitarnych_St_GIGA.png){ align="left" width="350" }
 
 ## Partnership with Nintendo
 

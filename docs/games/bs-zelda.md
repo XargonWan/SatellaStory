@@ -1,5 +1,7 @@
 # BS Zelda Series
 
+![BS Zelda title screen](../assets/images/bszelda/bs1pics/bszelda1.gif){ align="right" width="300" }
+
 ## Overview
 
 The **BS Zelda** series consists of three distinct Satellaview games based on *The Legend of Zelda: A Link to the Past*. These games were among the most popular Satellaview titles and have received significant fan restoration efforts.[^1]
@@ -28,6 +30,8 @@ The sequel map featured even harder dungeons. The dungeon names spell **"NiNtEND
 | Week 3 | N |
 | Week 4 | tENDO |
 
+![Ancient Stone Tablets title screen](../assets/images/bszelda/sekibanpics/ast_title.png){ align="left" width="300" }
+
 ## BS Zelda no Densetsu: Inishie no Sekiban (Ancient Stone Tablets)
 
 The most complex of the BS Zelda titles, **Ancient Stone Tablets (AST)** was a **SoundLink game** -- the first Zelda game with full voice acting and a live radio drama component. The game was broadcast in 1997-1998 as the centerpiece of St.GIGA's Satellaview programming.[^5]
@@ -46,6 +50,8 @@ The game takes place six years after A Link to the Past. A new villain named **G
 - Rupees: +10 points each
 - Heart Containers and tablets auto-calculated
 - Result screens at end of each week calculated scores automatically[^8]
+
+![BS Zelda gameplay screenshot](../assets/images/bszelda/bs1pics/bszelda2.gif){ align="right" width="300" }
 
 ## Restoration History
 

@@ -11,6 +11,8 @@ The town of BS-X is populated by a cast of distinctive characters who provide se
 
 ## The Player Avatar
 
+![BS Zelda player sprites - male and female avatar variations](../assets/images/bszelda/bs1pics/1boy4.gif)![BS Zelda player sprites - male and female avatar variations](../assets/images/bszelda/bs1pics/1girl1.gif)
+
 The player character is the unnamed protagonist who arrives in the town. Their appearance is determined by the gender selected at configuration:[^2]
 
 - **Male Avatar** -- Wears a backward red baseball cap, blue shirt, and blue pants

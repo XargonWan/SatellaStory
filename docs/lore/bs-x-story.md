@@ -1,5 +1,7 @@
 # BS-X: The Story of the Town Whose Name Was Stolen
 
+![BS-X town map from Satellaview History Museum](../assets/images/museum/sfc_sv.gif){ align="right" width="300" }
+
 ## Overview
 
 **BS-X: Sore wa Namae o Nusumareta Machi no Monogatari** (BS-X: それは名前を盗まれた街の物語, "BS-X: The Story of the Town Whose Name Was Stolen") was the operating system and user interface cartridge for the Satellaview system. Rather than a conventional menu, it presented itself as a fully realized game world -- a small town that the player could explore, populated by quirky characters, and filled with interactive elements.[^1]

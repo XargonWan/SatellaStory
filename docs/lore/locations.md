@@ -1,5 +1,7 @@
 # Locations in BS-X
 
+![Map of the BS-X town from the Satellaview History Museum](../assets/images/museum/sfc_sv.gif){ align="right" width="350" }
+
 ## The Town
 
 The BS-X town is a 2D top-down village divided into several districts. The player enters the town from **Ransei Bridge** (らんせい橋), which spans across a river at the town's entrance. The Satellaview History Museum is one of the few sources that documented the town's map layout.[^1]

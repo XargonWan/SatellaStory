@@ -44,7 +44,7 @@
 |-------|---------|
 | **Handle** | Madick |
 | **Role** | Japanese Satellaview blogger and wiki creator |
-| **Contact** | Via atwiki.jp/bsxx admin system |
+| **Contact** | Via atwiki.jp/bsxx admin system (site defunct); blog at bsx.seesaa.net (archived) |
 | **Status** | Inactive (last update 2016) |
 
 ### Contributions
@@ -60,7 +60,7 @@
 |-------|---------|
 | **Handle** | Kameb |
 | **Role** | One of the first Satellaview documentarians |
-| **Contact** | No known contact |
+| **Contact** | Site at www.f3.dion.ne.jp/~kameb/satella/satella.htm (archived, 57 Wayback captures 2001-2017) |
 | **Status** | Inactive (last update 2008) |
 
 ### Contributions
@@ -94,7 +94,7 @@
 |-------|---------|
 | **Handle** | imoko |
 | **Role** | Documented BS Fire Emblem: Akaneia Senki |
-| **Contact** | VYC05463 (at) nifty.com (likely dead) |
+| **Contact** | VYC05463 (at) nifty.com (likely dead); page archived at homepage3.nifty.com/imoko/bsfe/whatis.bsfe.html |
 | **Status** | Inactive; site now defunct |
 
 ### Contributions

@@ -4,6 +4,8 @@
 
 ### Satellaview Heaven (bsx.seesaa.net)
 
+![Satellaview Heaven logo](../assets/images/satellaview-heaven/sh_logo.gif){ align="right" width="200" }
+
 **Maintainer:** Madick  
 **Active:** January 2007 -- August 2016[^1]
 
@@ -55,6 +57,8 @@ The wiki describes the Satellaview's three content pillars:
 1. Radio programs (featuring Tamori, Ayumi Hamasaki, Bakusho Mondai)
 2. Downloadable original games and add-on data
 3. Sound Link games (synchronized radio + gameplay)[^8]
+
+![onion8](../assets/images/satellaview-heaven/onion/onion8.jpg){ align="right" width="200" }
 
 ### Mikarin's Pages
 

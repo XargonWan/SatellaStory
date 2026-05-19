@@ -34,13 +34,13 @@ Each entry includes:
 | **Pachuka (RealaNightmaren)** | BS-X Cult founder, ROM leaker | No verified active contact |
 | **Duke Serkol** | BS Zelda Shrine co-webmaster, FAQ author | dukeserkol@bszelda.zeldalegends.net |
 | **Madick** | Satellaview Heaven blog, Japanese Wiki admin | Via atwiki.jp/bsxx admin |
-| **Kameb** | Satellaview History Museum | No known contact |
-| **Mikarin** | Personal fan site with rare audio | No known contact |
-| **randnetdd** | SFC Mania blog, game documentation | No known active contact |
-| **imoko** | BS Fire Emblem documentation | No known active contact |
+| **Kameb** | Satellaview History Museum | No known contact — site at www.f3.dion.ne.jp/~kameb/satella (archived) |
+| **Mikarin** | Personal fan site with rare audio | Still online at sound.jp/mikarin/bs.html (as of 2024) |
+| **randnetdd** | SFC Mania blog, game documentation | randnetdd@mail.goo.ne.jp (likely dead) |
+| **imoko** | BS Fire Emblem documentation | VYC05463 (at) nifty.com (likely dead) |
 | **Moe Kotoi (motoi)** | Radical Dreamers fansite | radical (at) or.tv |
 | **HIRO** | Satellaview Memorial / SatellaOFF organizer | hiro-n@airnet.ne.jp (archived) |
-| **Blackeye** | BS-X no Hanashi site | No known active contact |
+| **Blackeye** | BS-X no Hanashi site | No known active contact — site at www.clio.ne.jp/home/koba/ (defunct) |
 | **Sazpaimon** | X-Cult/Sonic CulT ownership after Pachuka | GitHub (@sazpaimon) |
 | **danyl** | Satellablog dumper (2024-2026) | Via superfamicom.org/blog |
 | **Revenant** | bsnes-plus Satellaview emulation | Via bsnes-plus project |

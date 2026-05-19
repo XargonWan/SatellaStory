@@ -36,7 +36,7 @@ Restoration groups can be divided into:
 
 - **The Satellablog** (superfamicom.org/blog) is actively maintained by danyl, posting regular dumps
 - **BS-X Project** remains in maintenance mode with the latest SatellaWave release in 2019
-- **Satellaview+** offers simulated live broadcasts
+- **[Satellaview+](https://satellaviewplus.github.io/)** (satellaviewplus.github.io) — offers simulated live St.GIGA broadcasts, currently active[^6]
 - **Elude Visibility** continues to release new Satellaview dumps
 - **Japanese sites** are mostly inactive but archived
 
@@ -47,3 +47,4 @@ Restoration groups can be divided into:
 [^3]: [Satellablog - You won't like it when eBayers](https://web.archive.org/web/200812/http://satellablog.blogspot.com/2008/12/you-wont-like-it-when-ebayers.html)
 [^4]: [Satellablog - BS Zelda changes](https://superfamicom.org/blog/2010/04/bs-zelda-changes)
 [^5]: [The English Satellaview Wiki - Fan Projects](https://web.archive.org/web/2025/https://satellaview.fandom.com/wiki/Community/Fan_Projects)
+[^6]: [Satellaview+](https://satellaviewplus.github.io/)
