@@ -44,11 +44,21 @@ The fan community compiled a cast list through listener collaboration:[^5]
 | Lukard | Edamoto Yuuichi |
 | Additional roles | Various |
 
+## Original Broadcast Recordings
+
+All 4 episodes of the original SoundLink broadcast survive on video, mirrored from NicoNicoDouga to YouTube:
+
+- **Episode 1** (YouTube): complete broadcast with radio drama segments and live commentary[^6]
+- **Episode 2** (YouTube, mirrored on Satellablog): "Red Wind Ron" — gameplay with narration[^7]
+- **Episodes 3 & 4** (YouTube, uploaded 2010): complete finale of the series[^8]
+
+These recordings capture the full SoundLink experience: live voice acting, timed gameplay events, and the original broadcast atmosphere.
+
 ## Fan Restoration
 
-- **2009:** A mod/mock-up using SRPG Maker 95 was produced[^6]
-- **2009:** Fan-driven pressure led to Intelligent Systems commenting on the game[^7]
-- **2010:** Music restoration via VHS recordings (shared on Nico Nico Douga)[^8]
+- **2009:** A mod/mock-up using SRPG Maker 95 was produced[^9]
+- **2009:** Fan-driven pressure led to Intelligent Systems commenting on the game[^10]
+- **2010:** Music restoration via VHS recordings (shared on Nico Nico Douga)[^11]
 - **Subsequent:** Official DS re-release preserved the game
 
 ## Documentation
@@ -56,7 +66,7 @@ The fan community compiled a cast list through listener collaboration:[^5]
 The most detailed documentation of the game comes from **imoko**'s "What is BS Fire Emblem?" page, which confirmed:
 - The game was a Sound Link format (radio + gameplay)
 - None of the 4 episodes could be saved
-- A commercial release of the drama/game elements was considered unlikely by Intsys[^9]
+- A commercial release of the drama/game elements was considered unlikely by Intsys[^12]
 
 ---
 
@@ -65,7 +75,10 @@ The most detailed documentation of the game comes from **imoko**'s "What is BS F
 [^3]: [The English Satellaview Wiki - BS Fire Emblem](https://satellaview.fandom.com/wiki/BS_Fire_Emblem:_Akaneia_Senki)
 [^4]: [Satellablog - Satellaview dojin projects](https://superfamicom.org/blog/2009/03/satellaview-dojin-projects)
 [^5]: [What is BS Fire Emblem?](https://web.archive.org/web/*/http://homepage3.nifty.com/imoko/bsfe/whatis.bsfe.html)
-[^6]: [Satellablog - Satellaview dojin projects](https://superfamicom.org/blog/2009/03/satellaview-dojin-projects)
-[^7]: [Satellablog - Satellaview dojin projects](https://superfamicom.org/blog/2009/03/satellaview-dojin-projects)
-[^8]: [Satellablog - Copypasta from Serenesforest](https://superfamicom.org/blog/2010/07/copypasta-from-serenesforest-nnd-recreates-bsfe-music)
-[^9]: [What is BS Fire Emblem?](https://web.archive.org/web/*/http://homepage3.nifty.com/imoko/bsfe/whatis.bsfe.html)
+[^6]: [Serenes Forest - BSFE episode 1 video](https://forums.serenesforest.net/topic/64914-how-to-play-bs-fire-emblem/)
+[^7]: [Satellablog - More BS Fire Emblem (Week 2)](https://superfamicom.org/blog/2009/08/more-bs-fire-emblem-bsfe-dai-2-wa/)
+[^8]: [Satellablog - Last BS Fire Emblem episode](https://superfamicom.org/blog/2010/06/last-bs-fire-emblem-episode/)
+[^9]: [Satellablog - Satellaview dojin projects](https://superfamicom.org/blog/2009/03/satellaview-dojin-projects)
+[^10]: [Satellablog - Satellaview dojin projects](https://superfamicom.org/blog/2009/03/satellaview-dojin-projects)
+[^11]: [Satellablog - Copypasta from Serenesforest](https://superfamicom.org/blog/2010/07/copypasta-from-serenesforest-nnd-recreates-bsfe-music)
+[^12]: [What is BS Fire Emblem?](https://web.archive.org/web/*/http://homepage3.nifty.com/imoko/bsfe/whatis.bsfe.html)

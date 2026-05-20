@@ -135,6 +135,7 @@
 |------|-------|
 | 2024 | Satellablog revived; danyl begins posting regular Satellaview dumps[^41] |
 | June 2024 | Matthew Callis dumps Chaos Seed Satellaview demo (first ever)[^42] |
+| July 8, 2024 | Satellaview+ revival service launched (satellaviewplus.github.io) — simulated live St.GIGA broadcasts with emulation-based client[^48] |
 | April 2025 | Last code push to sat_wave repo[^43] |
 | January 2026 | LuigiBlood publishes "Satellaview - An Explainer" blog post[^44] |
 | 2026 | x-cult.org displays only "IT'S OVER" -- site permanently defunct[^45] |
@@ -198,5 +199,6 @@
 [^43]: [LuigiBlood GitHub](https://github.com/LuigiBlood)
 [^44]: [LuigiBlood neocities](https://luigiblood.neocities.org/)
 [^45]: [X-Cult](http://www.x-cult.org/)
+[^48]: [Satellaview+ GitHub repo](https://github.com/SatellaviewPlus/satellaviewplus.github.io) — created July 8, 2024
 [^46]: [Satellablog - BS DQ](https://superfamicom.org/blog/2010/06/so-whats-up-with-the-bs-dragon-quest-rom-anyway)
 [^47]: [SFC Mania](https://web.archive.org/web/*/http://blog.goo.ne.jp/randnetdd)

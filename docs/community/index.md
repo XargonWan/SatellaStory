@@ -34,11 +34,11 @@ Restoration groups can be divided into:
 
 ## Current State (2026)
 
-- **The Satellablog** (superfamicom.org/blog) is actively maintained by danyl, posting regular dumps
-- **BS-X Project** remains in maintenance mode with the latest SatellaWave release in 2019
-- **[Satellaview+](https://satellaviewplus.github.io/)** (satellaviewplus.github.io) — offers simulated live St.GIGA broadcasts, currently active[^6]
-- **Elude Visibility** continues to release new Satellaview dumps
-- **Japanese sites** are mostly inactive but archived
+- **[The Satellablog](https://superfamicom.org/blog/)** (superfamicom.org/blog) — actively maintained by danyl, posting regular dumps[^6]
+- **[BS-X Project](https://project.satellaview.org/)** (project.satellaview.org) — remains in maintenance mode with the latest SatellaWave release in 2019[^7]
+- **[Satellaview+](https://satellaviewplus.github.io/)** (satellaviewplus.github.io) — offers simulated live St.GIGA broadcasts, currently active[^8]
+- **[Elude Visibility](https://eludevisibility.org/releases/satellaview/)** (eludevisibility.org) — continues to release new Satellaview dumps[^9]
+- **Japanese sites** — mostly inactive but archived (see [Links Archive](../research/links-archive.md))
 
 ---
 
@@ -47,4 +47,7 @@ Restoration groups can be divided into:
 [^3]: [Satellablog - You won't like it when eBayers](https://web.archive.org/web/200812/http://satellablog.blogspot.com/2008/12/you-wont-like-it-when-ebayers.html)
 [^4]: [Satellablog - BS Zelda changes](https://superfamicom.org/blog/2010/04/bs-zelda-changes)
 [^5]: [The English Satellaview Wiki - Fan Projects](https://web.archive.org/web/2025/https://satellaview.fandom.com/wiki/Community/Fan_Projects)
-[^6]: [Satellaview+](https://satellaviewplus.github.io/)
+[^6]: [The Satellablog](https://superfamicom.org/blog/)
+[^7]: [BS-X Project](https://project.satellaview.org/)
+[^8]: [Satellaview+](https://satellaviewplus.github.io/)
+[^9]: [Elude Visibility - Satellaview dumps](https://eludevisibility.org/releases/satellaview/)

@@ -80,6 +80,16 @@ The BS Zelda music has been restored from multiple sources:
 - **Album sources** -- official soundtrack releases that contained BS Zelda music[^14]
 - **MSU-1 patches** -- replacing restoration-enhanced music in the ROMs[^15]
 
+## Where to See/Hear Original Broadcasts
+
+Original SoundLink broadcast recordings with live voice acting survive online:
+
+- **BS Zelda Map 1 — annotated complete run** (YouTube, 4 parts): subtitled gameplay with original Japanese voice acting[^18]
+- **BS Zelda Map 1 — makuchan's video** (YouTube): shows how a SoundLink game was downloaded and played during the original broadcast[^19]
+- **BS Zelda: Ancient Stone Tablets — week 4 voice acting translation** (BS Zelda Shrine): full transcript synced to original broadcast video[^20]
+- **BS Zelda: Ancient Stone Tablets — all weeks** (NicoVideo): discovered 2007, contains complete voice acting and music[^21]
+- **English dub project** (Nintendo Life, 2016): fan-produced English voice acting replacement for Map 1 and Ancient Stone Tablets[^22]
+
 ## Current Status (2026)
 
 - All three BS Zelda games are playable in emulation
@@ -107,3 +117,8 @@ The BS Zelda music has been restored from multiple sources:
 [^15]: [BS Zelda Shrine - MSU-1](http://bszelda.zeldalegends.net/)
 [^16]: [BS Zelda Shrine - Updates](http://bszelda.zeldalegends.net/)
 [^17]: [BS Zelda Shrine - 2016 announcement](http://bszelda.zeldalegends.net/)
+[^18]: [Zelda Dungeon Wiki - BS Zelda external links](https://www.zeldadungeon.net/wiki/BS_The_Legend_of_Zelda#External_links) — YouTube annotated complete run
+[^19]: [Satellablog - Satellaview Content, Part 1](https://superfamicom.org/blog/2008/04/satellaview-content-part-1-live-broadcasts/)
+[^20]: [BS Zelda Shrine - AST Week 4 Voice Translation](https://bszelda.zeldalegends.net/sekibanvot4.shtml)
+[^21]: [BS Zelda Shrine - AST Video Translation](https://bszelda.zeldalegends.net/videotran1.shtml)
+[^22]: [Nintendo Life - BS Zelda English Dub](https://www.nintendolife.com/news/2016/10/satellaview_exclusive_bs_zelda_the_ancient_stone_tablets_dubbed_into_english)

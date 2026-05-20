@@ -57,6 +57,33 @@ Fan preservation of SoundLink audio has taken several approaches:
 
 Beyond game audio, St.GIGA broadcast ambient music and personality segments. St.GIGA Forever documented the ambient music portions of St.GIGA's broadcasts, which included a distinctive soundscape that merged Japanese radio aesthetics with experimental electronic music.[^9]
 
+## Where to Experience SoundLink Today
+
+While the original broadcasts are long gone, several recordings survive online:
+
+### BS Zelda Series
+- **BS Zelda Map 1 — original broadcast gameplay** (YouTube, uploaded by makuchan): shows how a SoundLink download worked with live narration[^10]
+- **BS Zelda Map 1 — annotated complete run** (YouTube, 4 parts): subtitled gameplay with preserved voice acting[^11]
+- **BS Zelda: Ancient Stone Tablets — week 4 voice acting translation** (BS Zelda Shrine): full transcript with video of the original broadcast narration[^12]
+- **BS Zelda: Ancient Stone Tablets — all weeks** (NicoVideo): complete broadcast recordings with voice acting, discovered 2007[^13]
+
+### BS Fire Emblem: Akaneia Senki
+
+All 4 episodes of the original broadcast survive on video:
+
+- **Episode 1** — complete broadcast with radio drama segments and live commentary[^14]
+- **Episode 2** — "Red Wind Ron", mirrored on Satellablog[^15]
+- **Episodes 3 & 4** — complete finale, uploaded 2010 after the DS remake announcement[^16]
+
+### Other SoundLink Games
+- **Excitebike Bunbun Mario Battle Stadium — longplay** (YouTube, by DolmaKalem): 56-minute complete gameplay without SoundLink audio[^17]
+- **Satellaview+** (satellaviewplus.github.io): live simulated St.GIGA broadcasts, currently active with emulation client — listen to recreated broadcasts in real time[^18]
+
+### Audio Restoration Projects
+- **KiddoCabbusses Bandcamp** (kiddocabbusses.bandcamp.com): restored Satellaview soundtrack releases[^19]
+- **Satellaview Soundtracks** (Satellablog, 2009): documented music restoration from VHS recordings[^3]
+- **BS Zelda music from album sources** (Satellablog, 2009): official soundtrack releases containing BS Zelda music[^7]
+
 ---
 
 [^1]: [Satellaview Heaven - SoundLink](https://web.archive.org/web/*/http://bsx.seesaa.net/)
@@ -68,3 +95,13 @@ Beyond game audio, St.GIGA broadcast ambient music and personality segments. St.
 [^7]: [Satellablog - BS Zelda album sources](https://superfamicom.org/blog/2009/11/satellaview-soundtracks-bs-zelda-music-as-from-album-sources)
 [^8]: [Satellablog - Copypasta from Serenesforest](https://superfamicom.org/blog/2010/07/copypasta-from-serenesforest-nnd-recreates-bsfe-music)
 [^9]: [St.GIGA Forever](https://web.archive.org/web/*/http://www.stgiga.jp/)
+[^10]: [Satellablog - Satellaview Content, Part 1](https://superfamicom.org/blog/2008/04/satellaview-content-part-1-live-broadcasts/) — embedded YouTube video by makuchan showing BS Zelda SoundLink download
+[^11]: [Zelda Dungeon Wiki - BS Zelda](https://www.zeldadungeon.net/wiki/BS_The_Legend_of_Zelda) — links to annotated YouTube complete run
+[^12]: [BS Zelda Shrine - AST Week 4 Voice Translation](https://bszelda.zeldalegends.net/sekibanvot4.shtml)
+[^13]: [BS Zelda Shrine - AST Video Translation](https://bszelda.zeldalegends.net/videotran1.shtml)
+[^14]: [Serenes Forest - How to play BS Fire Emblem](https://forums.serenesforest.net/topic/64914-how-to-play-bs-fire-emblem/) — embedded YouTube videos of all 4 episodes
+[^15]: [Satellablog - More BS Fire Emblem](https://superfamicom.org/blog/2009/08/more-bs-fire-emblem-bsfe-dai-2-wa/) — week 2 video
+[^16]: [Satellablog - Last BS Fire Emblem episode](https://superfamicom.org/blog/2010/06/last-bs-fire-emblem-episode/) — weeks 3 & 4 videos
+[^17]: [YouTube - Excitebike Bunbun Mario Battle Stadium longplay](https://www.youtube.com/watch?v=SCQ2UoMmDNo)
+[^18]: [Satellaview+](https://satellaviewplus.github.io/)
+[^19]: [KiddoCabbusses Bandcamp](https://kiddocabbusses.bandcamp.com/)

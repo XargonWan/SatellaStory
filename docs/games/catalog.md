@@ -84,7 +84,7 @@ A visual catalog of every known Satellaview broadcast game, with screenshots whe
 ## BS Dragon Quest
 
 - **Type:** Downloadable
-- **Broadcast:** 1997 (4 weeks)
+- **Broadcast:** 1996 (4 weeks, Feb-Mar)
 - **Status:** [Debug ROM leaked](bs-dragon-quest.md) — unique combined-week build
 - **Screenshots:** None available in archive
 
@@ -202,13 +202,11 @@ These games are documented in broadcast schedules but few details survive:
 - **Broadcast:** May-Jun 1996 (4 weeks)
 - **Status:** Documented at Satellaview History Museum
 
-**Screenshots:**
+### Bass Tsuri No.1
 
 ![Bass Tsuri 01](../assets/images/satellaview-heaven/bassturi/bassturi01.gif){ width="200" }
 ![Bass Tsuri 02](../assets/images/satellaview-heaven/bassturi/bassturi02.gif){ width="200" }
 ![Bass Tsuri 03](../assets/images/satellaview-heaven/bassturi/bassturi03.gif){ width="200" }
-
-### Bass Tsuri No.1
 
 - **Type:** SoundLink (fishing tournament)
 - **Broadcast:** Apr-Aug 1997 (multiple tournaments)
@@ -336,6 +334,66 @@ These games are documented in broadcast schedules but few details survive:
 - **Type:** Downloadable
 - **Broadcast:** Dec 1997 – Jan 1998 (4 weeks)
 - **Status:** Documented
+
+### All Japan Super Bombliss Cup '95 + Wai Wai de Pon
+
+- **Type:** SoundLink (puzzle competition)
+- **Broadcast:** Oct-Nov 1995
+- **Status:** Documented at Satellaview History Museum
+
+### Wai Wai de Pon (Spring Special + Specials)
+
+- **Type:** SoundLink (panel puzzle)
+- **Broadcast:** Nov-Dec 1995, Mar 1996
+- **Status:** Nintendo character panel-matching game; documented at Satellaview History Museum
+
+### BS Kirby Ball
+
+- **Type:** SoundLink (breakout/Arkanoid)
+- **Broadcast:** Aug 1996
+- **Status:** Kirby-themed breakout game; distinct from Kirby no Omocha Hako
+
+### Takaru Fantasy
+
+- **Type:** SoundLink
+- **Broadcast:** May-Jul 1996 (paired with BS Spriggan Powered)
+- **Status:** Documented at Satellaview History Museum
+
+### Satellaview Grand Prix '96 (Ishin Brothers Cup)
+
+- **Type:** Event (live competition)
+- **Broadcast:** Sep 1, 1996
+- **Status:** Documented at Satellaview History Museum
+
+### BS Quiz: Waku Waku San
+
+- **Type:** Quiz (SoundLink)
+- **Broadcast:** Jun 1997, Nov-Dec 1997 (2-week runs)
+- **Status:** Quiz game documented at Satellaview History Museum
+
+### Mamono to Issho
+
+- **Type:** SoundLink (Pikmin-like?)
+- **Broadcast:** Jul 1997, Dec 1997
+- **Status:** Likely lost; described as "Pikmin-like" by Kameb; documented at Satellaview History Museum
+
+### Satellaview Grand Prix 2: Mine + Live
+
+- **Type:** Event (live competition)
+- **Broadcast:** Jan 25-31, 1998
+- **Status:** Documented at Satellaview History Museum
+
+### SatellaWalker 2
+
+- **Type:** SoundLink (Satebô adventure)
+- **Broadcast:** Feb 15-28, 1998
+- **Status:** Sequel to SatellaWalker; documented at Satellaview History Museum
+
+### Sound Journal For Lovers
+
+- **Type:** SoundLink (music/magazine)
+- **Broadcast:** Feb 8-14, 1998 (2 weeks)
+- **Status:** Valentine's special; documented at Satellaview History Museum
 
 ---
 

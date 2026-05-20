@@ -64,6 +64,8 @@ A Satellaview version of SimCity where players could compete in city-building co
 
 A SoundLink multiplayer version of Excitebike featuring Mario-themed racing. **d4s** released a patch in 2006 that removed the SoundLink requirement and made the game playable without satellite input.[^10]
 
+A complete 56-minute longplay is available on YouTube, showing the full game with its broadcast timing system.[^11]
+
 ## Satella-Q
 
 A quiz game broadcast as part of the Satellaview programming. During the SatellaOFF events, the group played a SatellaQuiz session with scores ranging from 48 to 75 points (human) vs. the NPC's 232/500.[^11]
@@ -87,4 +89,5 @@ A Satellaview game in the Onigashima series. Music restoration from VHS recordin
 [^9]: [Satellaview Heaven](https://web.archive.org/web/*/http://bsx.seesaa.net/)
 [^10]: [d4s website](https://dforce3000.de/)
 [^11]: [SatellaOFF - Quiz](https://web.archive.org/web/20001209/http://www5.airnet.ne.jp/hiro-n/special/off/0329-Q.html)
+[^12]: [YouTube - Excitebike Bunbun Mario Battle Stadium longplay](https://www.youtube.com/watch?v=SCQ2UoMmDNo)
 [^12]: [Satellablog - Soundtracks](https://superfamicom.org/blog/2009/08/satellaview-soundtracks-music-splice-hackory-custom)
